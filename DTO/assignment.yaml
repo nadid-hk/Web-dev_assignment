@@ -1,0 +1,9 @@
+students:
+  - name: Nadid Hassan
+    student_id: 146
+    courses:
+      - subject_name: PHY
+        course_teacher: Nadim
+        -teacher_details:
+          department: EEE
+          salary: 100k

@@ -1,0 +1,16 @@
+<student>
+    <name>Nadid Hassan</name>
+    <student_id>146</student_id>
+    <courses>
+        <course>
+            <subject_name>PHY</subject_name>
+            <course_teacher>Nadim</course_teacher>
+            <teacher_details>
+              <teacher_details>
+                <department>EEE</department>
+                <salary>100k</salary>
+                </teacher_details>
+            </teacher_details>
+        </course>
+    </courses>
+</student>

@@ -1,0 +1,15 @@
+{
+    "student name": "Nadid Hassan",
+    "student id": "146",
+    "course": [
+        {
+            "subject name": "PHY",
+            "course teacher": "Nadim",
+            "Teacher details":[ {
+                "Department": "EEE",
+                "Salary": "100k"
+            }
+          ]
+        }
+    ]
+}
